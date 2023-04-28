@@ -20,7 +20,7 @@ title                    : "Old Prize의 블로그"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "박상헌"
-description              : "An amazing website."
+description              : "한동대학교 기계제어 공학부 재학중인 18학번입니다."
 url                      : "https://oldprize47.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
